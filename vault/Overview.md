@@ -16,6 +16,6 @@ An app that helps students prepare for tech job interviews, mainly computer scie
 - [ ] Define the scope
 - [ ] Pick the tech stack
 - [x] Add issues to the GitHub Project board (see [[Interview Loop Backlog]])
-- [ ] Connect the `code/` folder to the GitHub repo (github.com/snowkang08-star/map26-27)
+- [x] Connect the project folder to the GitHub repo (github.com/snowkang08-star/map26-27)
 
 See [[Log]] for what's been done.

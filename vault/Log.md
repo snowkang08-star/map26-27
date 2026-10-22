@@ -3,6 +3,9 @@
 Newest at the top.
 
 ## 2026-10-22
+- Connected this project folder to GitHub (github.com/snowkang08-star/map26-27). Notes and code now upload there. See [[Git Basics]] for how to save work.
+- `vault/.obsidian/` is left out on purpose (listed in `.gitignore`).
+- Files changed: new `.gitignore`, new `vault/Git Basics.md`, `vault/Overview.md`, `vault/Log.md`
 - Redid the board backlog in last year's (map25) style: full-sentence titles, all in **Backlog**. New issues are #14 to #25 in the repo `snowkang08-star/map26-27`.
 - The old issues #1 to #13 are still there. I'll delete them myself.
 - GitHub had a problem loading project boards today, so the board may look empty until it's fixed. The issues are on it.
