@@ -3,6 +3,8 @@
 Newest at the top.
 
 ## 2026-10-22
+- Put all 25 issues in order in [[Interview Loop Backlog]]: the current backlog (#14 to #25) and the old ones to delete (#1 to #13). Also wrote down why the numbers start at #14.
+- Files changed: `vault/Interview Loop Backlog.md`, `vault/Log.md`
 - Connected this project folder to GitHub (github.com/snowkang08-star/map26-27). Notes and code now upload there. See [[Git Basics]] for how to save work.
 - `vault/.obsidian/` is left out on purpose (listed in `.gitignore`).
 - Files changed: new `.gitignore`, new `vault/Git Basics.md`, `vault/Overview.md`, `vault/Log.md`
