@@ -1,19 +1,17 @@
 # Interview Loop Backlog
 
-The backlog for the GitHub Project board (github.com/users/snowkang08-star/projects/4), in the same style as last year's map25 board. All start in **Backlog**.
+The backlog for the GitHub Project board (github.com/users/snowkang08-star/projects/4). Kept small on purpose: only what's next.
 
-1. Research Existing Apps
-2. List user features
-3. Defining the scope
-4. Create a question bank page where users can browse coding interview questions sorted by topic (arrays, trees, graphs, etc.) and difficulty.
-5. Create a mock interview loop that runs several timed rounds in a row (coding, system design, and behavioral), just like a real FAANG interview day.
-6. Add an AI voice interviewer that talks to the user out loud through the entire loop, asking questions, following up, and giving hints while listening to the user's spoken answers.
-7. Add company modes so users can pick an interview style (Amazon, Google, Meta, etc.), such as an Amazon mode that includes Leadership Principles behavioral questions.
-8. Build a code editor inside the app where users can write and run their code during coding rounds.
-9. Show feedback after each round that explains what went well and what to improve.
-10. Create a progress page that tracks past interviews, scores, and weak topics over time.
-11. Enable sign-in so users can create accounts and keep their progress saved.
-12. Beta-test the application with classmates and other CS students to identify issues, limitations, and areas for improvement, then implement fixes.
+## On the board now
+1. Research existing interview prep apps and list the features users need. (#14)
+2. Define the scope of the app and pick the tech stack. (#15)
+3. Build a simple first version of the mock interview loop. (#16)
+
+## Later (add to the board when ready)
+- Add an AI voice interviewer that talks to the user through the whole loop, plus company modes (Amazon, Google, Meta, etc.).
+- Add a question bank, a code editor, and timed rounds (coding, system design, behavioral).
+- Show feedback after each round, track progress, and add sign-in.
+- Beta-test with classmates and other CS students, then fix what they find.
 
 ## Note
-On GitHub these are issues #14 to #25, because GitHub never reuses issue numbers. The old issues #1 to #13 (the first try) are to be deleted.
+Other issues (#1 to #13 and #17 to #25) were taken off the board but still exist in the repo. Delete them on GitHub when you have time.

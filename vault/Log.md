@@ -2,6 +2,11 @@
 
 Newest at the top.
 
+## 2026-10-26
+- Made the board minimal: only 3 cards in Backlog (#14 research + features, #15 scope + tech stack, #16 first version of the interview loop). Everything else was taken off the board and listed under "Later" in [[Interview Loop Backlog]].
+- Files changed: `vault/Interview Loop Backlog.md`, `vault/Log.md`
+- Left to do: delete unused issues #1 to #13 and #17 to #25 on GitHub, then start #14.
+
 ## 2026-10-22
 - Renumbered the list in [[Interview Loop Backlog]] as 1 to 12 so it's easier to read.
 - Put all 25 issues in order in [[Interview Loop Backlog]]: the current backlog (#14 to #25) and the old ones to delete (#1 to #13). Also wrote down why the numbers start at #14.
