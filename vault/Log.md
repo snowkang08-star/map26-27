@@ -2,6 +2,11 @@
 
 Newest at the top.
 
+## 2026-10-31
+- Wrote [[Research]] for issue #14: apps compared, the gap, and the must-have features for version 1. It's a draft based on the backlog, so check it against your own research.
+- Files changed: new `vault/Research.md`, `vault/Log.md`, `vault/Overview.md`
+- Left to do: move #14 to Done on the board, then do rough wireframes and pick the tech stack (#15).
+
 ## 2026-10-26
 - Made the board minimal: only 3 cards in Backlog (#14 research + features, #15 scope + tech stack, #16 first version of the interview loop). Everything else was taken off the board and listed under "Later" in [[Interview Loop Backlog]].
 - Files changed: `vault/Interview Loop Backlog.md`, `vault/Log.md`
