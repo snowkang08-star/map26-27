@@ -2,6 +2,22 @@
 
 Newest at the top.
 
+## 2026-11-05 (later)
+- Looked up what each interview round tests and added it to [[Research]]. Amazon new grad loop = 2 coding, 1 low-level design, 1 behavioral (Bar Raiser), with Leadership Principle questions in every round.
+- Moved the live AI voice interviewer into version 1 (it was "later").
+- Added a new page in the Figma file, "Version 2 (round types + live voice)", with 5 screens: start, coding, low-level design, behavioral, loop results. Every round has a live voice interviewer with captions. The old screens are still on the first page.
+- Changed how feedback works: no feedback between rounds (like a real interview). Instead, one "Loop results" page at the end shows the final result, the top 3 things to practice, and a section for every round (coding scores, design scores, and a score per Leadership Principle + a STAR check for behavioral). Removed the old per-round feedback screens and the old summary.
+- Files changed: `vault/Research.md`, `vault/Log.md`
+- Left to do: pick the tech stack (#15). The voice interviewer will need speech-to-text and text-to-speech.
+
+## 2026-11-05
+- Made a mock UI (wireframes) for version 1 on a design canvas: https://claude.ai/artifact/3RtxpvpcEryVNByW1Zmc6Z
+  - 4 screens: Start a loop, Coding round, Round feedback, Loop summary. The buttons link the screens together.
+  - Text in [brackets] is a placeholder.
+- Rebuilt the same 4 screens in Figma: https://www.figma.com/design/I817KhNKFbQfRARy6s4obV
+- Files changed: `vault/Log.md`, `vault/Overview.md`
+- Left to do: look over the screens and change what you want, then pick the tech stack (#15).
+
 ## 2026-10-31
 - Wrote [[Research]] for issue #14: apps compared, the gap, and the must-have features for version 1. It's a draft based on the backlog, so check it against your own research.
 - Files changed: new `vault/Research.md`, `vault/Log.md`, `vault/Overview.md`

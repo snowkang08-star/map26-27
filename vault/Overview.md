@@ -13,7 +13,7 @@ An app that helps students prepare for tech job interviews, mainly computer scie
 ## To-do
 - [x] Research existing interview prep apps (see [[Research]])
 - [x] List user features
-- [ ] Make rough wireframes of the main screens
+- [x] Make rough wireframes of the main screens (link in [[Log]])
 - [ ] Define the scope
 - [ ] Pick the tech stack
 - [x] Add issues to the GitHub Project board (see [[Interview Loop Backlog]])
